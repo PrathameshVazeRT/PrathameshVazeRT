@@ -22,7 +22,7 @@
 
 ---
 
-### ✨ Quick intro
+## ✨ Quick intro
 
 Laravel Backend Developer (3+ years) crafting secure, scalable APIs with expertise in performance tuning, codebase modernization, third-party integrations, open-source contributions (Laracon, Laravel Mumbai), and AI-driven backend & API security tools.
 
