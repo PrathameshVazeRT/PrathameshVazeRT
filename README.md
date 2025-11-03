@@ -37,10 +37,8 @@ Laravel Backend Developer (3+ years) crafting secure, scalable APIs with experti
 
 * 
 *
--->
-
-
 ---
+-->
 
 ## 📈 GitHub Stats & Widgets
 
