@@ -2,9 +2,10 @@
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PrathameshVaze?label=Follow\&style=social)](https://twitter.com/PrathameshVaze) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prathameshvaze) [![Website](https://img.shields.io/badge/-Portfolio-0d1117?style=flat\&logo=google-chrome\&logoColor=white)](https://your-website.com)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PrathameshVazeRT.PrathameshVazeRT)
 
----
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/PrathameshVaze?label=Follow\&style=social)](https://twitter.com/PrathameshVaze) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prathameshvaze) [![Website](https://img.shields.io/badge/-Portfolio-0d1117?style=flat\&logo=google-chrome\&logoColor=white)](https://your-website.com)
 
 ## 🛠 Tech & Tools
 
@@ -15,6 +16,14 @@
 </p>
 
 ---
+
+## 💬 Say hello
+
+* Email: [prathamesh.v@rapsystechnologies.com](mailto:prathamesh.v@rapsystechnologies.com)
+* X (formerly Twitter): [@PrathameshVaze](https://x.com/PrathameshVaze)
+
+---
+
 ### ✨ Quick intro
 
 I'm a passionate software developer who loves building clean, maintainable applications and delightful developer experiences. I work across web stacks, automation, and cloud infra — and I enjoy turning ideas into robust code.
@@ -43,14 +52,6 @@ I'm a passionate software developer who loves building clean, maintainable appli
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshVazeRT\&count_private=true\&show_icons=true\&theme=radical)](https://github.com/PrathameshVazeRT)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PrathameshVazeRT.PrathameshVazeRT)
-
----
-
-## 💬 Say hello
-
-* Email: [prathamesh.v@rapsystechnologies.com](mailto:prathamesh.v@rapsystechnologies.com)
-* X (formerly Twitter): [@PrathameshVaze](https://x.com/PrathameshVaze)
 
 ---
 
