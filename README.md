@@ -1,9 +1,6 @@
 # Hi there 👋 I'm **Prathamesh**
 
----
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PrathameshVazeRT.PrathameshVazeRT)
-
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PrathameshVaze?label=Follow\&style=social)](https://twitter.com/PrathameshVaze) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prathameshvaze)
 
