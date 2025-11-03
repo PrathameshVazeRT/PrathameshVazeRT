@@ -13,20 +13,14 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 </p>
 
----
-
 ## 💬 Say hello
 
 * Email: [prathamesh.v@rapsystechnologies.com](mailto:prathamesh.v@rapsystechnologies.com)
 * X (formerly Twitter): [@PrathameshVaze](https://x.com/PrathameshVaze)
 
----
-
 ## ✨ Quick intro
 
 Laravel Backend Developer (3+ years) crafting secure, scalable APIs with expertise in performance tuning, codebase modernization, third-party integrations, open-source contributions (Laracon, Laravel Mumbai), and AI-driven backend & API security tools.
-
----
 
 <!-- ## 🔭 What I’m working on
 
@@ -37,7 +31,7 @@ Laravel Backend Developer (3+ years) crafting secure, scalable APIs with experti
 
 * 
 *
----
+
 -->
 
 ## 📈 GitHub Stats & Widgets
@@ -48,14 +42,7 @@ Laravel Backend Developer (3+ years) crafting secure, scalable APIs with experti
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshVazeRT\&count_private=true\&show_icons=true\&theme=radical)](https://github.com/PrathameshVazeRT)
 
-
----
-
 ## ⚡ Fun facts
 
 * Coffee-first developer ☕
 * Documentation nerd
-
----
-
-*Made with ❤️ by Prathamesh — keep building!*
