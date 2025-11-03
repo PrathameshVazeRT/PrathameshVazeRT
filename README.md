@@ -54,8 +54,7 @@ I'm a passionate software developer who loves building clean, maintainable appli
 ## ⚡ Fun facts
 
 * Coffee-first developer ☕
-* I love tinkering with Raspberry Pi projects
-* Open-source contributor and documentation nerd
+* Documentation nerd
 
 ---
 
