@@ -5,7 +5,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PrathameshVazeRT.PrathameshVazeRT)
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PrathameshVaze?label=Follow\&style=social)](https://twitter.com/PrathameshVaze) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prathameshvaze) [![Website](https://img.shields.io/badge/-Portfolio-0d1117?style=flat\&logo=google-chrome\&logoColor=white)](https://your-website.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PrathameshVaze?label=Follow\&style=social)](https://twitter.com/PrathameshVaze) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prathameshvaze)
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -24,7 +24,7 @@
 
 ### ✨ Quick intro
 
-I'm a passionate software developer who loves building clean, maintainable applications and delightful developer experiences. I work across web stacks, automation, and cloud infra — and I enjoy turning ideas into robust code.
+Laravel Backend Developer (3+ years) crafting secure, scalable APIs with expertise in performance tuning, codebase modernization, third-party integrations, open-source contributions (Laracon, Laravel Mumbai), and AI-driven backend & API security tools.
 
 ---
 
