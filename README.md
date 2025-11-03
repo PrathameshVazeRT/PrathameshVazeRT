@@ -22,10 +22,23 @@
 
 Laravel Backend Developer (3+ years) crafting secure, scalable APIs with expertise in performance tuning, codebase modernization, third-party integrations, open-source contributions (Laracon, Laravel Mumbai), and AI-driven backend & API security tools.
 
+## ⚡ Fun facts
+
+* Coffee-first developer ☕
+* Documentation nerd
+
+## 📈 GitHub Stats & Widgets
+
+<!-- Put your username in the URLs below -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshVazeRT\&layout=compact\&theme=radical)](https://github.com/PrathameshVazeRT)
+
+[![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshVazeRT\&count_private=true\&show_icons=true\&theme=radical)](https://github.com/PrathameshVazeRT)
+
 <!-- ## 🔭 What I’m working on
 
-* Building **[Careers Nest](https://careersnest.com)** — a modern web app with React (Inertia) + Laravel.
-* Automating developer workflows with GitHub Actions and CI/CD.
+* 
+* 
 
 ## 🌱 I’m learning
 
@@ -33,16 +46,3 @@ Laravel Backend Developer (3+ years) crafting secure, scalable APIs with experti
 *
 
 -->
-
-## 📈 GitHub Stats & Widgets
-
-<!-- Put your username in the urls below -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshVazeRT\&layout=compact\&theme=radical)](https://github.com/PrathameshVazeRT)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshVazeRT\&count_private=true\&show_icons=true\&theme=radical)](https://github.com/PrathameshVazeRT)
-
-## ⚡ Fun facts
-
-* Coffee-first developer ☕
-* Documentation nerd
