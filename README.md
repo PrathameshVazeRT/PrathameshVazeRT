@@ -32,6 +32,8 @@ Laravel Backend Developer (3+ years) crafting secure, scalable APIs with experti
 
 [![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshVazeRT\&count_private=true\&show_icons=true\&theme=radical)](https://github.com/PrathameshVazeRT)
 
+<a href="https://app.daily.dev/prathameshvazert"><img src="https://api.daily.dev/devcards/v2/w3aqk5N14a2lDAWfb6Jza.png?type=default&r=srh" width="356" alt="Prathamesh Vaze's Dev Card"/></a>
+
 <!-- ## 🔭 What I’m working on
 
 * 
